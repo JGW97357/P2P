@@ -449,22 +449,22 @@ https://developers.nonghyup.com/P2PNInvestmentDepositAmountReturnResultList.nh
 {
   "Header": {
     "ApiNm": "P2PNInvestmentDepositAmountReturn",
-    "Tsymd": "20191212",
-    "Trtm": "112428",
-    "Iscd": "000013",
+    "Tsym"20251119",
+    "Trtm": "100500",
+    "Iscd": "003297",
     "FintechApsno": "001",
     "ApiSvcCd": "13E_001_00",
-    "IsTuno": "324234234324",
-    "AccessToken": "10b74dd7f5f0f521ecdc7ade82f793bdfc119c3635d2e5303ae6aba0c93d4246"
+    "IsTuno": "202511191006000052",
+    "AccessToken": "6c52120f58e13fd033fd2f3f50b29765197f4877b26e376351c438ff5f125"
   },
   "P2pCmtmNo": "0000000000",
   "ChidSqno": "0000000000",
   "Vran": "79000000000074",
-  "RtnAmt": "100000000",
+  "RtnAmt": "30000000000000000",
   "Bncd": "011",
-  "Dpnm": "홍길동",
-  "IvstrAcct": "3020000000150",
-  "MractOtlt": "입금계좌인자내용"
+  "Dpnm": "장두순",
+  "IvstrAcct": "79000000000554",
+  "MractOtlt": "투자금예치반환요청"
 }
 ```
 ### 3.7.2 투자예치금 반환요청 Request Element
@@ -483,13 +483,13 @@ https://developers.nonghyup.com/P2PNInvestmentDepositAmountReturnResultList.nh
 ```json
 {
 	"Header": {
-	    "Trtm": "112428",
+	    "Trtm": "101100",
 	    "Rsms": "정상처리 되었습니다.",
 	    "ApiNm": "P2PNInvestmentDepositAmountReturn",
-	    "IsTuno": "324234234324",
+	    "IsTuno": "202511191012000087",
 	    "Tsymd": "20191212",
 	    "FintechApsno": "001",
-	    "Iscd": "000013",
+	    "Iscd": "003279",
 	    "Rpcd": "00000",
 	    "ApiSvcCd": "13E_001_00"
 	}
